@@ -1,6 +1,10 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+![banner](https://github.com/user-attachments/assets/016d97f9-76f8-4894-8475-3ad624b06d47)
+
 </div>
+
+# Description
+A comprehensive interactive guide and simulator for deploying Fully Homomorphic Encryption (FHE) dApps on Ethereum. Features an AI-powered smart contract generator and an FHE swap simulator.
 
 # Run and deploy your AI Studio app
 
