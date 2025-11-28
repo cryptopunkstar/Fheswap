@@ -1,7 +1,4 @@
-<div align="center">
-![banner](https://github.com/user-attachments/assets/016d97f9-76f8-4894-8475-3ad624b06d47)
 
-</div>
 
 # Description
 A comprehensive interactive guide and simulator for deploying Fully Homomorphic Encryption (FHE) dApps on Ethereum. Features an AI-powered smart contract generator and an FHE swap simulator.
