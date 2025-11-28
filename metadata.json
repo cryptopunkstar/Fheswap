@@ -1,0 +1,5 @@
+{
+  "name": "CipherSwap Academy",
+  "description": "A comprehensive interactive guide and simulator for deploying Fully Homomorphic Encryption (FHE) dApps on Ethereum. Features an AI-powered smart contract generator and an FHE swap simulator.",
+  "requestFramePermissions": []
+}
